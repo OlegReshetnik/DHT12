@@ -1,0 +1,10 @@
+# Class
+Dht12			KEYWORD1
+
+# Methods and Functions 
+read			KEYWORD2
+getTemperature	KEYWORD2
+getHumidity		KEYWORD2
+
+# Constants
+DHT12_DEFAULT_ADDRESS	LITERAL1
